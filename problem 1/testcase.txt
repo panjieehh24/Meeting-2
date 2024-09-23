@@ -1,0 +1,54 @@
+Input : Enter Your Name : Panji 
+        The Grossalary  : IDR50000000
+        The Insurance   :
+Output : Payslip for Employee
+        ---------------------
+        Name : Panji
+        Tax (20%) : IDR10000000
+        Instalment : IDR250000
+        Insurance  : IDR500000
+        Net Salary : IDR39250000
+
+Input : Enter Your Name : 
+        The Grossalary  :
+        The Insurance   :
+Output : Payslip for Employee
+        ---------------------
+        Name :
+        Tax (20%) :
+        Instalment :
+        Insurance  : 
+        Net Salary :
+
+Input : Enter Your Name : 
+        The Grossalary  :
+        The Insurance   :
+Output : Payslip for Employee
+        ---------------------
+        Name :
+        Tax (20%) :
+        Instalment :
+        Insurance  : 
+        Net Salary :
+
+Input : Enter Your Name : 
+        The Grossalary  :
+        The Insurance   :
+Output : Payslip for Employee
+        ---------------------
+        Name :
+        Tax (20%) :
+        Instalment :
+        Insurance  : 
+        Net Salary :
+
+Input : Enter Your Name : 
+        The Grossalary  :
+        The Insurance   :
+Output : Payslip for Employee
+        ---------------------
+        Name :
+        Tax (20%) :
+        Instalment :
+        Insurance  : 
+        Net Salary :
