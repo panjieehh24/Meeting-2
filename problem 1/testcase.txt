@@ -1,6 +1,6 @@
 Input : Enter Your Name : Panji 
         The Grossalary  : IDR50000000
-        The Insurance   :
+        The Insurance   : IDR500000
 Output : Payslip for Employee
         ---------------------
         Name : Panji
@@ -9,46 +9,46 @@ Output : Payslip for Employee
         Insurance  : IDR500000
         Net Salary : IDR39250000
 
-Input : Enter Your Name : 
-        The Grossalary  :
-        The Insurance   :
+Input : Enter Your Name : Helmi
+        The Grossalary  : IDR2000000
+        The Insurance   : IDR1000000
 Output : Payslip for Employee
         ---------------------
-        Name :
-        Tax (20%) :
-        Instalment :
-        Insurance  : 
-        Net Salary :
+        Name : Helmi
+        Tax (20%) : IDR400000
+        Instalment : IDR1000000
+        Insurance  : IDR1000000
+        Net Salary : IDR-400000
 
-Input : Enter Your Name : 
-        The Grossalary  :
-        The Insurance   :
+Input : Enter Your Name : Ayas
+        The Grossalary  : IDR4000000
+        The Insurance   : IDR1600000
 Output : Payslip for Employee
         ---------------------
-        Name :
-        Tax (20%) :
-        Instalment :
-        Insurance  : 
-        Net Salary :
+        Name : Ayas
+        Tax (20%) : IDR800000
+        Instalment : IDR1600000
+        Insurance  : IDR1600000
+        Net Salary : IDR0
 
-Input : Enter Your Name : 
-        The Grossalary  :
-        The Insurance   :
+Input : Enter Your Name : Agus
+        The Grossalary  : IDR2000000
+        The Insurance   : IDR320000
 Output : Payslip for Employee
         ---------------------
-        Name :
-        Tax (20%) :
-        Instalment :
-        Insurance  : 
-        Net Salary :
+        Name : Agus
+        Tax (20%) : IDR400000
+        Instalment : IDR500000
+        Insurance  : IDR320000
+        Net Salary : IDR780000
 
-Input : Enter Your Name : 
-        The Grossalary  :
-        The Insurance   :
+Input : Enter Your Name : Yudi
+        The Grossalary  : IDR4000000
+        The Insurance   : IDR1000000
 Output : Payslip for Employee
         ---------------------
-        Name :
-        Tax (20%) :
-        Instalment :
-        Insurance  : 
-        Net Salary :
+        Name : Yudi
+        Tax (20%) : IDR800000
+        Instalment : IDR2000000
+        Insurance  : IDR1000000
+        Net Salary : IDR200000
