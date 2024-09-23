@@ -10,4 +10,4 @@ run: main
 	./main
 
 clean:
-	del main.o main.exe
+	rm main.o main.exe
